@@ -1,7 +1,7 @@
 # Rock-paper-Scissors 
 
 This Python program allows users to play a simple game of "Rock, Paper, Scissors" against the computer. This project is from 
-@Freecodecamp Youtube - 12 beginner Python projects. The original projects shows if you won or lost against the computer but never shows the computer answer.
+@FreeCodeCamp Youtube - 12 beginner Python projects. The original projects shows if you won or lost against the computer but never shows the computer answer.
 i added an ```" f string " ```to the ```"if statements"```to get the computers response.
 
 ``` Python
